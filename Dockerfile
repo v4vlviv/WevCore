@@ -12,8 +12,4 @@ RUN dotnet build "WebCore.csproj" -c Release -o /app
 
 FROM build AS publish
 RUN dotnet publish "WebCore.csproj" -c Release -o /app
-
-FROM base 
-WORKDIR /app 
-COPY --from=2 /app .
 ENTRYPOINT ["dotnet", "WebCore.dll"]
