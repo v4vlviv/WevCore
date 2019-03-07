@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore-build:2.0 AS build
+FROM microsoft/aspnetcore-build:2.0
 WORKDIR /src
 EXPOSE 80
 COPY ["WebCore/WebCore.csproj", "WebCore/"]
