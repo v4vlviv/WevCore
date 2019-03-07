@@ -15,5 +15,5 @@ RUN dotnet publish "WebCore.csproj" -c Release -o /app
 
 FROM base AS final 
 WORKDIR /app 
-COPY  -from 3
+COPY  -from 2
 ENTRYPOINT ["dotnet", "WebCore.dll"]
