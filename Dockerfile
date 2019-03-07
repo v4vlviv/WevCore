@@ -9,11 +9,4 @@ RUN dotnet restore "WebCore/WebCore.csproj"
 COPY . .
 WORKDIR "/src/WebCore"
 RUN dotnet build "WebCore.csproj" -c Release -o /app
-
-FROM build AS publish
-RUN dotnet publish "WebCore.csproj" -c Release -o /app
-
-FROM base AS final 
-WORKDIR /app 
-COPY  -from 2
 ENTRYPOINT ["dotnet", "WebCore.dll"]
