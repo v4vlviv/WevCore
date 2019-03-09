@@ -9,3 +9,15 @@ D:\C#\Project\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfoInputs
 D:\C#\Project\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfo.cs
 D:\C#\Project\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.dll
 D:\C#\Project\WebCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.pdb
+D:\C#\Project\WevCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.deps.json
+D:\C#\Project\WevCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.runtimeconfig.json
+D:\C#\Project\WevCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.runtimeconfig.dev.json
+D:\C#\Project\WevCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.dll
+D:\C#\Project\WevCore\WebCore\bin\Debug\netcoreapp2.0\WebCore.pdb
+D:\C#\Project\WevCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.csprojAssemblyReference.cache
+D:\C#\Project\WevCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.csproj.CoreCompileInputs.cache
+D:\C#\Project\WevCore\WebCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\C#\Project\WevCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfoInputs.cache
+D:\C#\Project\WevCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.AssemblyInfo.cs
+D:\C#\Project\WevCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.dll
+D:\C#\Project\WevCore\WebCore\obj\Debug\netcoreapp2.0\WebCore.pdb

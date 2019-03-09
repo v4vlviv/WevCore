@@ -13265,11 +13265,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Project\\WebCore\\WebCore\\WebCore.csproj",
+      "projectUniqueName": "D:\\C#\\Project\\WevCore\\WebCore\\WebCore.csproj",
       "projectName": "WebCore",
-      "projectPath": "D:\\C#\\Project\\WebCore\\WebCore\\WebCore.csproj",
+      "projectPath": "D:\\C#\\Project\\WevCore\\WebCore\\WebCore.csproj",
       "packagesPath": "C:\\Users\\Lucky\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Project\\WebCore\\WebCore\\obj\\",
+      "outputPath": "D:\\C#\\Project\\WevCore\\WebCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
